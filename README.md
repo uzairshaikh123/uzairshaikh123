@@ -7,7 +7,9 @@
 
 <!--  https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif -->
 # <h1>💫 About Me</h1>
-🌱 I’m currently learning : React, Redux, MongoDB, Express.js, Node.js<br><br>🔭 My first solo project : [Tripoto](https://tripoto-clone-two.vercel.app/)<br><br>👯 My first collaborative project : [Media Flow](https://media-flow.netlify.app/)<br><br>📝 I regularly solve problem on : Masai Coding Platform <br><br>💬 Ask me about : HTML, CSS, JavaScript, React ,Redux<br><br>📫 How to reach me : uzairmd073@gmail.com<br><br>📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1w9zO6biz20SPgIQ2KU7j8U16AfaQKnNk/view?usp=sharing)</a><br><br>👨🏻‍🎓 Visit my [Portfolio](https://uzairshaikh123.github.io/)<br><br>⚡ Fun fact The Biggest Risk for me to not taking a risk!!!
+🌱 Currently a Senior Software Engineer at TechXSherpa, contributing to the development of innovative SaaS applications, including role-based access control systems and real-time task management modules. Specializes in leveraging Next.js, TypeScript, and Redux Toolkit to build scalable, high-performance platforms and client-branded solutions integrated with business needs.  
+
+Pursuing a Bachelor's degree in Computer Applications from Indira Gandhi National Open University (expected July 2026). Passionate about crafting seamless user experiences and delivering impactful software solutions. Driven to explore system design and prepare for roles at product-focused companies, with a strong interest in collaborating on cutting-edge technologies. : [Media Flow](https://media-flow.netlify.app/)<br><br>📝 I regularly solve problem on : Masai Coding Platform <br><br>💬 Ask me about : HTML, CSS, JavaScript, React ,Redux<br><br>📫 How to reach me : uzairmd073@gmail.com<br><br>📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1w9zO6biz20SPgIQ2KU7j8U16AfaQKnNk/view?usp=sharing)</a><br><br>👨🏻‍🎓 Visit my [Portfolio](https://uzairshaikh123.github.io/)<br><br>⚡ Fun fact The Biggest Risk for me to not taking a risk!!!
 
 
 ## 🌐 Socials:
